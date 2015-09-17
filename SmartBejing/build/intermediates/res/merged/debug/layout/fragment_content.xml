@@ -1,0 +1,51 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.smartbejing.view.NoScrollViewPager
+        android:id="@+id/vp_content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="#e5e5e5" />
+
+    <RadioGroup
+        android:id="@+id/rg_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#11000000"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_home"
+            style="@style/BottomTabStyle"
+            android:drawableTop="@drawable/btn_tab_home_selector"
+            android:text="首页" />
+
+        <RadioButton
+            android:id="@+id/rb_news"
+            style="@style/BottomTabStyle"
+            android:drawableTop="@drawable/btn_tab_news_selector"
+            android:text="新闻" />
+
+        <RadioButton
+            android:id="@+id/rb_smart"
+            style="@style/BottomTabStyle"
+            android:drawableTop="@drawable/btn_tab_smart_selector"
+            android:text="服务" />
+
+
+        <RadioButton
+            android:id="@+id/rb_setting"
+            style="@style/BottomTabStyle"
+            android:drawableTop="@drawable/btn_tab_setting_selector"
+            android:text="个人" />
+    </RadioGroup>
+
+</LinearLayout>
+<!-- From: file:/Users/yangyongxin/local/projects/Project/SmartBejing/src/main/res/layout/fragment_content.xml -->

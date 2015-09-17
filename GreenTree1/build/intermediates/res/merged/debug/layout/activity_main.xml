@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_wihte"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/rg"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/color_green"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp">
+
+        <RadioButton
+            android:id="@+id/rb_recommend"
+            style="@style/tittle_style"
+            android:checked="true"
+            android:text="@string/recommend" />
+
+        <RadioButton
+            android:id="@+id/rb_distance"
+            style="@style/tittle_style"
+            android:text="@string/distance" />
+
+        <RadioButton
+            android:id="@+id/rb_price"
+            style="@style/tittle_style"
+            android:text="@string/price_asc" />
+
+        <RadioButton
+            android:id="@+id/rb_score"
+            style="@style/tittle_style"
+            android:text="@string/score" />
+
+        <RadioButton
+            android:id="@+id/rb_filter"
+            style="@style/tittle_style"
+            android:text="@string/filter" />
+    </RadioGroup>
+
+    <LinearLayout
+        android:id="@+id/ll_pb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:layout_width="50dp"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/waitting" />
+    </LinearLayout>
+
+    <com.greentree.view.RefreshListView
+        android:id="@+id/lv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="3dp"
+        android:layout_marginRight="3dp"
+        android:layout_marginTop="3dp"
+        android:divider="@color/color_wihte"
+        android:dividerHeight="5dp" />
+
+</LinearLayout>
+<!-- From: file:/Users/yangyongxin/local/projects/Project/GreenTree/src/main/res/layout/activity_main.xml -->

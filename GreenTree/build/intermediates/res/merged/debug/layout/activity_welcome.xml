@@ -1,0 +1,11 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world" />
+
+</RelativeLayout>
+<!-- From: file:/Users/yangyongxin/local/projects/Project/GreenTree/src/main/res/layout/activity_welcome.xml -->

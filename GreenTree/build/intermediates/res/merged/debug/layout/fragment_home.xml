@@ -1,0 +1,8 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fl_home">
+
+
+</FrameLayout>
+<!-- From: file:/Users/yangyongxin/local/projects/Project/GreenTree/src/main/res/layout/fragment_home.xml -->

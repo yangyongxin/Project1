@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/geren" android:state_checked="false"/>
+    <item android:drawable="@drawable/geren_press2"/>
+
+</selector><!-- From: file:/Users/yangyongxin/local/projects/Project/SmartBejing/src/main/res/drawable/btn_tab_setting_selector.xml -->

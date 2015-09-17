@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yangyongxin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/pre-dexed/debug/gson-2.3.1-858262de8255682921cae5ac504320622be2a195.jar" />
+    </item>
+    <item
+        jar="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/exploded-aar/Project/lib_SlidingMenu/unspecified/jars/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="53307dc2bd2b69fd5533458ee11885f55807de4b">
+        <dex dex="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/pre-dexed/debug/android-support-v4-9dcb6149cdbd7f96867bb2e8f240fc138ed2fc8f.jar" />
+    </item>
+    <item
+        jar="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/exploded-aar/com.jiechic.library/xUtils/2.6.14/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/pre-dexed/debug/classes-b79af850d272d48e557611e377468723943c9233.jar" />
+    </item>
+    <item
+        jar="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/exploded-aar/Project/lib_SlidingMenu/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="b28bb951d4a957c4b243b28c61855fa58474167a">
+        <dex dex="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/pre-dexed/debug/classes-189db6dd854911d7400bd71c46c5ac53761dbb36.jar" />
+    </item>
+    <item
+        jar="/Users/yangyongxin/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.4/dd9eeb557650c4ad7394df23f0f5cf27a7cfc697/universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.4-e59fc655e1c3841afe5ae052a43bf59284a290f1.jar" />
+    </item>
+    <item
+        jar="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/exploded-aar/Project/Lib_PullToRefresh/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8f7884502088af51c5ca56bd8165861105ce94a3">
+        <dex dex="/Users/yangyongxin/local/projects/Project/GreenTree/build/intermediates/pre-dexed/debug/classes-8c4ef39a8946414e068965facf522a27d6fb5dc9.jar" />
+    </item>
+
+</items>

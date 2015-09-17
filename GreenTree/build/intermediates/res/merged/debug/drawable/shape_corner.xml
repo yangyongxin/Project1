@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/color_wihte" />
+    <corners android:radius="@dimen/d_10"/>
+    <stroke android:color="@color/color_gray" android:width="@dimen/d_1"/>
+</shape><!-- From: file:/Users/yangyongxin/local/projects/Project/GreenTree/src/main/res/drawable/shape_corner.xml -->

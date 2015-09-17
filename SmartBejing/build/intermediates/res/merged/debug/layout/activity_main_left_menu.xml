@@ -1,0 +1,6 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/fl_left_menu"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</FrameLayout><!-- From: file:/Users/yangyongxin/local/projects/Project/SmartBejing/src/main/res/layout/activity_main_left_menu.xml -->

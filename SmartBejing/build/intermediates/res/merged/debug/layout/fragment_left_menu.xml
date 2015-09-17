@@ -1,0 +1,16 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_menu" >
+
+    <ListView
+        android:id="@+id/lv_list"
+        android:listSelector="@android:color/transparent"
+        android:layout_marginTop="40dp"
+        android:divider="@android:color/transparent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </ListView>
+
+</RelativeLayout><!-- From: file:/Users/yangyongxin/local/projects/Project/SmartBejing/src/main/res/layout/fragment_left_menu.xml -->
